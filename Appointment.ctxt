@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Appointment
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Appointment\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Appointment()
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=day
+comment4.target=void\ setDay(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDay()
+comment6.params=duration
+comment6.target=void\ setDuration(double)
+comment7.params=
+comment7.target=java.lang.Double\ getDuration()
+numComments=8
