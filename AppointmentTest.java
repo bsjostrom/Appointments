@@ -34,8 +34,8 @@ public class AppointmentTest
        System.out.print("Enter duration for second appointment: ");
        app2.setDuration(Double.parseDouble(in.nextLine()));
        
-       System.out.println("You have a " + app1.getDuration + " hour appointment on " + app1.getDay + " with " + app1.getName + ".");
-       System.out.println("You have a " + app2.getDuration + " hour appointment on " + app2.getDay + " with " + app2.getName + ".");
+       System.out.println("You have a " + app1.getDuration() + " hour appointment on " + app1.getDay() + " with " + app1.getName() + ".");
+       System.out.println("You have a " + app2.getDuration() + " hour appointment on " + app2.getDay() + " with " + app2.getName() + ".");
     
 }
 }
