@@ -2,8 +2,8 @@
 /**
  * Write a description of class Appointment here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Bailee Sjostrom
+ * @version 1/15/18
  */
 public class Appointment
 {

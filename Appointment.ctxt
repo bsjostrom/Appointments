@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Appointment
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Appointment\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Appointment\ here.\r\n\r\n\ @author\ Bailee\ Sjostrom\r\n\ @version\ 1/15/18\r\n
 comment1.params=
 comment1.target=Appointment()
 comment2.params=name
